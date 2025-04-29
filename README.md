@@ -1,12 +1,4 @@
 
-<!---
-Ajayyadav0001/Ajayyadav0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Sure! Here's the updated version of your **GitHub profile README** with added images, such as GitHub Stats and some section images:
-
----
-
 # 👋 Hi there! I'm **Ajay Yadav**
 
 Welcome to my GitHub profile! I am a passionate and driven **Software Developer** who loves solving real-world problems through code. I’m constantly improving my skills, learning new technologies, and contributing to exciting projects.
