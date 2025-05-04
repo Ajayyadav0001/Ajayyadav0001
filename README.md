@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate and driven **Software Developer*
 ![Tech Stack](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-5d2f94?logo=react&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, Ant Design  
+- **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express, MongoDB, MERN Stack  
 - **Programming Languages:** Java, Python (Basic)  
 - **Database:** MySQL, MongoDB  
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am a passionate and driven **Software Developer*
 ## 🔗 Let’s Connect!
 
 - 📧 **Email:** [aj9696189500@gmail.com](mailto:aj9696189500@gmail.com)
-- 💼 **LinkedIn:** [Ajay Yadav LinkedIn](https://linkedin.com/in/ajay-yadav)
+- 💼 **LinkedIn:** [Ajay Yadav LinkedIn](https://www.linkedin.com/in/ajay-yadav-6a7a16246/))
 - 🐦 **Twitter:** [@AjayYadavDev](https://twitter.com/AjayYadavDev)
 - 🌐 **Portfolio:** [ajayportfolio.com](https://ajayportfolio.com) *(if applicable)*
 
